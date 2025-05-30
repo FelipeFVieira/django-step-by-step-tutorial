@@ -1,0 +1,17 @@
+# Virtual Environment
+venv/
+*/venv/
+**/venv/
+
+
+# Django Files
+__pycache__/
+*.py[cod]
+db.sqlite3
+
+# IDEs Settings
+.vscode/
+.idea/
+
+# System Files
+.DS_Store
